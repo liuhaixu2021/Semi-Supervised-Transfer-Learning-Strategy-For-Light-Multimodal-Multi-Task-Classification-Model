@@ -1,1 +1,1 @@
-# nnY-Net-Swin-NeXt-with-Cross-Attention-for-3D-Medical-Images-Segmentation
+# Semi-Supervised Transfer Learning Strategy For Light Multimodal Multi-Task Classification Model
